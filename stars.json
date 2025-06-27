@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "DocsaidLab/AutoTraderX",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "solana-turbin3/Q1_25_Builder_brianobot",
     "stargazers_count": 15,
     "open_issues_count": 0,
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 26325,
+    "stargazers_count": 26337,
     "open_issues_count": 109,
-    "forks_count": 1539
+    "forks_count": 1541
   },
   {
     "full_name": "faradayafrica/Faraday-frontend",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 3810,
+    "stargazers_count": 3878,
     "open_issues_count": 9,
-    "forks_count": 398
+    "forks_count": 400
   }
 ]
