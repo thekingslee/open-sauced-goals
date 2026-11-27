@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "andimarafioti/faster-qwen3-tts",
+    "stargazers_count": 1440,
+    "open_issues_count": 29,
+    "forks_count": 202
+  },
+  {
     "full_name": "WisconsinAIVision/UniversalFakeDetect",
-    "stargazers_count": 383,
+    "stargazers_count": 382,
     "open_issues_count": 24,
     "forks_count": 60
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 145562,
-    "open_issues_count": 16,
-    "forks_count": 21422
+    "stargazers_count": 145893,
+    "open_issues_count": 50,
+    "forks_count": 21481
   },
   {
     "full_name": "rsk2327/Tiny-Aya-Under-the-hood",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "isEmmanuelOlowe/llm-explorer",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "open-sauced/ai",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 26,
     "forks_count": 30
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 28461,
-    "open_issues_count": 377,
-    "forks_count": 1865
+    "stargazers_count": 28469,
+    "open_issues_count": 380,
+    "forks_count": 1870
   },
   {
     "full_name": "faradayafrica/Faraday-frontend",
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 4602,
+    "stargazers_count": 4599,
     "open_issues_count": 17,
     "forks_count": 475
   }
